@@ -1,0 +1,54 @@
+body {
+  background-color: #F9DED8;
+  background-image: url("bg.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1 {
+  font-size: 50px;
+  color: grey;
+  text-align: center;
+  font-family: Georgia;
+  font-weight: normal;
+}
+h2 {
+  font-size: 25px;
+  color: grey;
+  text-align: center;
+  font-family: Helvetica;
+  font-weight: normal;
+}
+p {
+  color: grey;
+  font-family: verdana;
+  font-size: 15px;
+}
+li {
+  color: grey;
+  font-family: Georgia;
+  font-size: 17px;
+  font-weight: normal;
+}
+h3 {
+  color: green;
+  font-family: verdana;
+  font-size: 17px;
+  font-weight: normal;
+}
+a {
+  color: red;
+  font-family: verdana;
+  font-size: 20px;
+  font-weight: lighter;
+}
+h4 {
+  color: grey;
+  font-family: verdana;
+  font-size: 15px;
+  font-weight: normal;
+  text-align: right;
+}
+.img-container {
+  text-align: center;
+}
